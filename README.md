@@ -18,14 +18,15 @@ It allows users to upload documents in **PDF**, **DOCX**, or **Image** formats a
 ---
 
 ## 🏗️ Project Structure
-'''
+
+```
 ├── app.py           # Flask backend API
 ├── rag_core.py      # Core logic for ingestion, OCR, embeddings, FAISS, and querying
 ├── ui.py            # Streamlit frontend for user interaction
 ├── faiss_index/     # Stores FAISS vector DBs (auto-created)
 ├── .env             # Azure OpenAI credentials (not committed)
+```
 
-'''
 ---
 
 ## ⚙️ Setup Instructions
@@ -83,6 +84,7 @@ Uploads and processes a document.
   `file` - The file to upload  
   `language` - Language of document: English, Japanese, or Chinese
 
+---
 
 ## 📄 Supported File Types
 
