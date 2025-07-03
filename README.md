@@ -75,15 +75,6 @@ Then open your browser at `http://localhost:8501`.
 
 ---
 
-## 🌐 API Endpoints
-
-### `POST /ingest`
-Uploads and processes a document.
-
-- **Form data**:  
-  `file` - The file to upload  
-  `language` - Language of document: English, Japanese, or Chinese
-
 ---
 
 ## 📄 Supported File Types
