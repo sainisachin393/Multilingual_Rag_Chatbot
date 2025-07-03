@@ -106,11 +106,4 @@ Then open your browser at `http://localhost:8501`.
 
 This project is released under the [MIT License](LICENSE).
 
----
 
-## 🙌 Acknowledgements
-
-- [OpenAI](https://openai.com/)
-- [LangChain](https://www.langchain.com/)
-- [FAISS](https://github.com/facebookresearch/faiss)
-- [Streamlit](https://streamlit.io/)
