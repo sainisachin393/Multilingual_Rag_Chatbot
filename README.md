@@ -102,8 +102,5 @@ Then open your browser at `http://localhost:8501`.
 
 ---
 
-## 📜 License
-
-This project is released under the [MIT License](LICENSE).
 
 
